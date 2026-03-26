@@ -1,0 +1,6 @@
+dig @198.41.0.4 www.harvard.edu +norecurse
+dig @192.5.6.30 www.harvard.edu +norecurse
+dig @128.103.1.1 www.harvard.edu +norecurse
+dig @198.41.0.4 www.harvard.edu +norecurse
+dig @192.12.94.30 www.harvard.edu +norecurse
+dig @128.103.1.1 www.harvard.edu A +norecurse
